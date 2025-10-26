@@ -52,7 +52,7 @@ If you want, tôi có thể:
 Test Image:
 <img width="1507" height="981" alt="image" src="https://github.com/user-attachments/assets/8b27dd9d-f3f1-4f38-a69b-83d42e8d6cc9" />
 
-<img width="757" height="491" alt="image" src="https://github.com/user-attachments/assets/2de3c2a9-fd58-42eb-b7b4-714c4e7d2c07" />
+<img width="7511" height="978" alt="image" src="https://github.com/user-attachments/assets/2de3c2a9-fd58-42eb-b7b4-714c4e7d2c07" />
 
 <img width="1511" height="978" alt="image" src="https://github.com/user-attachments/assets/5290e463-d676-4a59-9487-77f40f161fbe" />
 
