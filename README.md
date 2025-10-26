@@ -48,3 +48,20 @@ If you want, tôi có thể:
 - Thêm healthchecks và restart policies.
 - Thêm multi-stage builds to reduce image size.
 - Tinh chỉnh environment variables và secret management (Docker secrets or .env handling).
+
+Test Image:
+<img width="1507" height="981" alt="image" src="https://github.com/user-attachments/assets/8b27dd9d-f3f1-4f38-a69b-83d42e8d6cc9" />
+
+<img width="757" height="491" alt="image" src="https://github.com/user-attachments/assets/2de3c2a9-fd58-42eb-b7b4-714c4e7d2c07" />
+
+<img width="1511" height="978" alt="image" src="https://github.com/user-attachments/assets/5290e463-d676-4a59-9487-77f40f161fbe" />
+
+<img width="1511" height="979" alt="image" src="https://github.com/user-attachments/assets/2269ac69-4840-4623-b962-bcf24714e7d0" />
+
+<img width="1506" height="969" alt="image" src="https://github.com/user-attachments/assets/231fa8d2-83ce-4ae8-bb37-4e54fbef1e7e" />
+
+<img width="1508" height="979" alt="image" src="https://github.com/user-attachments/assets/7c4179c2-e172-4485-9151-68ef4cea562e" />
+
+
+
+
