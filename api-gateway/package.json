@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "https://github.com/LeTrongHieu175/EProject-Phase-1-Docker",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
